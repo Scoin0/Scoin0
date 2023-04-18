@@ -7,10 +7,10 @@ I'm Scoin0. I mostly work on small projects that I can come up with. My main pro
 ---    
 
 Some Languages I Know:    
-<img alt="C" height="32" width="32" src="https://cdn.simpleicons.org/c"/>
-<img alt="C++" height="32" width="32" src="https://cdn.simpleicons.org/c++"/>
-<img alt="C#" height="32" width="32" src="https://cdn.simpleicons.org/csharp"/>
-<img alt="Java" height="32" width="32" src="https://cdn.simpleicons.org/intellijidea"/>
+<img alt="C" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+<img alt="C++" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
+<img alt="C#" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
+<img alt="Java" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 
 ---
 
