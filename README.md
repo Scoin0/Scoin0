@@ -1,6 +1,6 @@
 # Heyo, I'm Scoin0
 
-I work on small projects that intrest me. I mostly work with Java but have been leaning a bit more in to C# lately.
+I work on small projects that interest me. I mostly work with Java but have been leaning a bit more in to C# lately.
 
 # Current Projects:    
 None at the moment. 
