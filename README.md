@@ -3,8 +3,7 @@
 I work on small projects that intrest me. I mostly work with Java but have been leaning a bit more in to C# lately.
 
 # Current Projects:    
-[UsagiBot](https://github.com/Scoin0/UsagiBot), which bridges Osu! and Twitch functionality.    
-[SherDashed](https://github.com/Scoin0/SherDashed), a project to make my work at work a bit easier.    
+None at the moment. 
 
 # **Languages:**
 C, C++, C#, Java
